@@ -4,7 +4,7 @@ import Links from '../components/Links';
 export default () => (
     <div>
         <h2>styleJsx.tsx</h2>
-        <style jsx>{`
+        <style>{`
             h2 {
                 color: red;
             }
